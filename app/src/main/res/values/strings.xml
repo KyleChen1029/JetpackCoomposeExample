@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="country_code">Country Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="select_country_code">Select Country Code</string>
+    <string name="error_invalid_phone_number">Invalid phone number format for the selected country.</string>
+    <string name="error_login_failed">Login failed. Please check your credentials.</string>
+    <string name="language">Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ko">한국어</string>
+    <string name="lang_ja">日本語</string>
+    <string name="lang_zh_tw">繁體中文</string>
+    <string name="taiwan_country_code_display_name">Taiwan (+886)</string>
+    <string name="japan_country_code_display_name">Japan (+81)</string>
+    <string name="korea_country_code_display_name">South Korea (+82)</string>
+    <string name="usa_country_code_display_name">United States (+1)</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ログインアプリ</string>
+    <string name="country_code">国コード</string>
+    <string name="phone_number">電話番号</string>
+    <string name="remember_me">アカウント情報を記憶</string>
+    <string name="login">ログイン</string>
+    <string name="search">検索</string>
+    <string name="select_country_code">国コードを選択</string>
+    <string name="error_invalid_phone_number">選択した国の電話番号形式が無効です。</string>
+    <string name="error_login_failed">ログインに失敗しました。資格情報を確認してください。</string>
+    <string name="language">言語</string>
+    <string name="lang_en">英語</string>
+    <string name="lang_ko">韓国語</string>
+    <string name="lang_ja">日本語</string>
+    <string name="lang_zh_tw">繁体字中国語</string>
+    <string name="taiwan_country_code_display_name">台湾 (+886)</string>
+    <string name="japan_country_code_display_name">日本 (+81)</string>
+    <string name="korea_country_code_display_name">韓国 (+82)</string>
+    <string name="usa_country_code_display_name">アメリカ合衆国 (+1)</string>
+</resources>

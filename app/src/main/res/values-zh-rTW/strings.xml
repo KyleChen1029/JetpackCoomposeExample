@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">登入應用程式</string>
+    <string name="country_code">國碼</string>
+    <string name="phone_number">手機號碼</string>
+    <string name="remember_me">記住帳號</string>
+    <string name="login">登入</string>
+    <string name="search">搜尋</string>
+    <string name="select_country_code">選擇國碼</string>
+    <string name="error_invalid_phone_number">所選國家/地區的電話號碼格式無效。</string>
+    <string name="error_login_failed">登入失敗，請檢查您的帳號資訊。</string>
+    <string name="language">語言</string>
+    <string name="lang_en">英文</string>
+    <string name="lang_ko">韓文</string>
+    <string name="lang_ja">日文</string>
+    <string name="lang_zh_tw">繁體中文</string>
+    <string name="taiwan_country_code_display_name">台灣 (+886)</string>
+    <string name="japan_country_code_display_name">日本 (+81)</string>
+    <string name="korea_country_code_display_name">南韓 (+82)</string>
+    <string name="usa_country_code_display_name">美國 (+1)</string>
+</resources>
